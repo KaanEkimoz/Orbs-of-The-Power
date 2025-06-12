@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8fa54d71ecc68164296aa23d8d1a78ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_rigidbody: {instanceID: 0}
+  - m_container: {instanceID: 0}
+  - m_xpGatherSoundAsset: {fileID: 11400000, guid: 131eb3b07fe7d244a9749715f59fc78f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
